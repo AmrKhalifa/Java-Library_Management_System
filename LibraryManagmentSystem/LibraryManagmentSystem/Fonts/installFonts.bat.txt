@@ -1,0 +1,3 @@
+Rem fontinst.bat
+copy /LibraryManagmentSystem/Fonts/Flat_Font_Jozoor/Font/JF Flat regular.ttf %systemroot%\fonts
+regedit /s font.reg
